@@ -1,3 +1,5 @@
+[![WyattMarksHeader](https://github.com/wyattmarks/wyattmarks/blob/master/assets/github.gif)](https://wyattmarks.com)
+
 ### Hi there 👋
 
 <!--
