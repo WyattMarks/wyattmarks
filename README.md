@@ -1,18 +1,25 @@
 [![WyattMarksHeader](https://raw.githubusercontent.com/WyattMarks/wyattmarks/main/assets/github.gif)](https://wyattmarks.com)
 
-### Hi there 👋
+# Hello, World. :robot:
 
-<!--
-**WyattMarks/wyattmarks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Wyatt Marks, and I am currently a senior in Computer Engineering at Southern Illinois University Edwardsville. I'm particularly interested in firmware development, low level AI implementations, and lots more! 
 
-Here are some ideas to get you started:
+## :toolbox: My Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### C/C++ - python - C# - Java - Lua - Verilog
+##### I2C - SPI - MODBUS
+##### MatLab - Cypress - PLC / Ladder Logic - KiCAD - LTSPICE - TensorFlow
+##### Git - VSCode
+
+## :mag: Find me 
+
+You can always find me at my website, [wyattmarks.com](http://wyattmarks.com/), or you can [:email:](mailto:wmarks@siue.edu) email [:email:](mailto:inbox@wyattmarks.com) me!
+
+## :chart_with_upwards_trend: GitHub Goodies
+<a href="https://github.com/WyattMarks/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wyattmarks&theme=gotham" />
+</a>
+
+<a href="https://github.com/WyattMarks/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wyattmarks&theme=gotham&show_icons=true&line_height=27&count_private=true" />
+</a>
