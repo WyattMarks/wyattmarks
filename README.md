@@ -1,4 +1,4 @@
-[![WyattMarksHeader](https://github.com/wyattmarks/wyattmarks/blob/master/assets/github.gif)](https://wyattmarks.com)
+[![WyattMarksHeader](https://raw.githubusercontent.com/WyattMarks/wyattmarks/main/assets/github.gif)](https://wyattmarks.com)
 
 ### Hi there 👋
 
