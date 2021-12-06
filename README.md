@@ -17,7 +17,7 @@ You can always find me at my website, [wyattmarks.com](http://wyattmarks.com/), 
 
 ## :chart_with_upwards_trend: GitHub Goodies
 <a href="https://github.com/WyattMarks/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wyattmarks&theme=gotham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wyattmarks&theme=gotham&langs_count=3" />
 </a>
 
 <a href="https://github.com/WyattMarks/">
