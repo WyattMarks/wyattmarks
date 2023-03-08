@@ -2,7 +2,7 @@
 
 # Hello, World. :robot:
 
-My name is Wyatt Marks, and I am currently a senior in Computer Engineering at Southern Illinois University Edwardsville. I'm particularly interested in firmware development, low level AI implementations, and lots more! 
+My name is Wyatt Marks, and I am currently a Computer Engineer at Enertech Global. I'm particularly interested in firmware development, low level AI implementations, and lots more! 
 
 ## :toolbox: My Stack
 
@@ -13,7 +13,7 @@ My name is Wyatt Marks, and I am currently a senior in Computer Engineering at S
 
 ## :mag: Find me 
 
-You can always find me at my website, [wyattmarks.com](http://wyattmarks.com/), or you can [:email:](mailto:wmarks@siue.edu) email [:email:](mailto:inbox@wyattmarks.com) me!
+You can always find me at my website, [wyattmarks.com](http://wyattmarks.com/), or you can [:email:](mailto:inbox@wyattmarks.com) email [:email:](mailto:inbox@wyattmarks.com) me!
 
 ## :chart_with_upwards_trend: GitHub Goodies
 <a href="https://github.com/WyattMarks/">
